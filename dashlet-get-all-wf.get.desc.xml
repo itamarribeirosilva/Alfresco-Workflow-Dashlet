@@ -1,0 +1,6 @@
+<webscript>
+   <shortname>Workflows Pendentes</shortname>
+   <description>Displays Wf List Tasks of all users</description>
+   <family>dashlet</family>
+   <url>/components/dashlets/dashlet-get-all-wf</url>
+</webscript>

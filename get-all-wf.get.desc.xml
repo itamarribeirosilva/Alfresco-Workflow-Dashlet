@@ -1,0 +1,8 @@
+<webscript>
+   <shortname> Workflows Pendentes </shortname>
+   <description>Retorna Lista Workflows Pendentes </description>
+   <url>/worflowdashlet/get-all-wf.get</url>
+   <format default="json">argument</format>
+ <authentication runas="admin">user</authentication>
+   <transaction>required</transaction>
+</webscript>
